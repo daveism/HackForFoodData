@@ -1,0 +1,83 @@
+FID,name,address,zipcode,type,shape,notes
+coa_food_locations.1,Asheville City Market,161 South Charlotte Stree,28801,Tailgate Market,POINT (-82.54874061379742 35.59299250909658),http://www.asapconnections.org/citymarket.html
+coa_food_locations.2,Asheville City Market (South),31 Schenck Pkwy,28803,Tailgate Market,POINT (-82.55381345902735 35.485644611579154),http://www.asapconnections.org/citymarket.html
+coa_food_locations.3,Big Ivy Tailgate Market,1679 Barnardsville Highwa,28709,Tailgate Market,POINT (-82.45517627940104 35.77765873902592),http://www.buyappalachian.org/search/tailgate_markets
+coa_food_locations.4,Black Mountain Tailgate Market,130 Montreat Road,28711,Tailgate Market,POINT (-82.32155321881662 35.620285370930475),http://www.blackmountaintailgatemarket.org/
+coa_food_locations.5,Downtown Farmers Market,45 South French Broad,28806,Tailgate Market,POINT (-82.55921284752588 35.59211384089363),http://www.downtownmarketasheville.com/
+coa_food_locations.6,Greenlife Sunday Market,70 Merrimon Ave,28801,Tailgate Market,POINT (-82.55461073841363 35.601878307210725),http://www.greenevillefarmersmarket.com/index.html
+coa_food_locations.7,North Asheville Tailgate Market,1 University Heights,28804,Tailgate Market,POINT (-82.56307635944358 35.618447375500324),http://www.northashevilletailgatemarket.org/
+coa_food_locations.8,Riceville Tailgate Market,2251 Riceville Road,28805,Tailgate Market,POINT (-82.47207539330896 35.63077652624642),http://www.buyappalachian.org/search/tailgate_markets
+coa_food_locations.9,Victory Tailgate Market,1329 Tunnel Road,28805,Tailgate Market,POINT (-82.46734478015814 35.583263294555586),http://www.buyappalachian.org/search/tailgate_markets
+coa_food_locations.10,Weaverville Tailgate Market,60 Lakeshore Drive,28787,Tailgate Market,POINT (-82.56901012578314 35.69065850678006),http://weavervilletailgate.org/
+coa_food_locations.11,West Asheville Tailgate Market,718 Haywood Road,28806,Tailgate Market,POINT (-82.5923287675905 35.577179818342756),http://www.buyappalachian.org/search/tailgate_markets
+coa_food_locations.12,WNC Farmers Market,570 Brevard Road,28806,Tailgate Market,POINT (-82.59849606628784 35.55549519291626),http://www.ncfarmfresh.com/FarmMarketDisplay.asp?FarmID=742
+coa_food_locations.13,ARDEN MISSIONARY BAPTIST CHURCH,2566 HENDERSONVILLE ROAD,28732,Manna Agencies,POINT (-82.50958824334197 35.4530415478211),stephenisrael@ya
+coa_food_locations.14,ABCCM - SOUTH MINISTRY,10 BUCK SHOALS ROAD,28704,Manna Agencies,POINT (-82.5127898748052 35.46248062136987),bbrown@abccm.org
+coa_food_locations.15,BETHEL SEVENTH DAY ADVENTIST CH,238 S. FRENCH BROAD AVE.,28805,Manna Agencies,POINT (-82.55901831697824 35.5853658154331),jvlaw111@aol.com
+coa_food_locations.16,BILTMORE CHURCH OF CHRIST,823 FAIRVIEW ST.,28803,Manna Agencies,POINT (-82.53397511996833 35.55152084702225),grannygumdrop@ho
+coa_food_locations.17,"IRENE WORTHAM CENTER, INC.",916 WEST CHAPEL ROAD,28803,Manna Agencies,POINT (-82.53412954374862 35.549434414135085),jcaldwell@iwcnc.
+coa_food_locations.19,MOUNT SHEBA BAPTIST CHURCH,1008 NEW STOCK RD.,28787,Manna Agencies,POINT (-82.59460972420628 35.71240761128807),wendy_proffitt@y
+coa_food_locations.21,SALVATION ARMY OF ASHEVILLE,204 HAYWOOD STREET,28802,Manna Agencies,POINT (-82.56024048119424 35.59548978746516),jill.carter@uss.
+coa_food_locations.22,FOSTER SEVENTH DAY ADVENTIST CH,375 HENDERSONVILLE ROAD,28803,Manna Agencies,POINT (-82.5382417879753 35.556735520390504),fosterchurch@cs.
+coa_food_locations.23,SWANNANOA VALLEY CHRISTIAN MINI,101 N. RIDGEWAY AVENUE,28711,Manna Agencies,POINT (-82.31888717325788 35.61995582659977),svcministry@yaho
+coa_food_locations.24,WESTERN CAROLINA RESCUE MINISTR,225 PATTON AVE.,28802,Manna Agencies,POINT (-82.56135215623439 35.59337880804044),craig.wcrm@gmail
+coa_food_locations.25,ABCCM - CRISIS MINISTRY,24 CUMBERLAND AVE.,28801,Manna Agencies,POINT (-82.55903691844345 35.59826341594306),sheryl.olsen@abc
+coa_food_locations.26,ABCCM - VETERANS RESTORATION QU,1329 TUNNEL ROAD EAST,28805,Manna Agencies,POINT (-82.4673447796551 35.58326329459741),mreich@abccm.org
+coa_food_locations.27,FREEDOM IN CHRIST CHURCH OF GOD,1808 PISGAH HIGHWAY,28715,Manna Agencies,POINT (-82.74113550202783 35.48320493201056),ckeffer@bellsout
+coa_food_locations.28,CHILDREN FIRST - EMMA RESOURCE,"50 S. FRENCH BROAD AVE., SUITE 246",28806,Manna Agencies,POINT (-82.5585753743026 35.591734233932335),lisab@childrenfi
+coa_food_locations.30,"CALVARY CHAPEL OF ASHEVILLE, IN",2 IRIS ST.,28815,Manna Agencies,POINT (-82.537357499444 35.56262018038319),robneecll@charte
+coa_food_locations.31,ABCCM - HOMINY VALLEY,155 CANDLER SCHOOL RD,28715,Manna Agencies,POINT (-82.7038174586789 35.5393240374443),joffenburger@abc
+coa_food_locations.32,RAYS CHAPEL BAPTIST CHURCH,24 WOOTEN COVE RD,28787,Manna Agencies,POINT (-82.55016449431525 35.717293076207525),blankship27@yaho
+coa_food_locations.34,LEICESTER COMMUNITY CENTER PROD,2979 New Leicester Hwy.,28748,Manna Agencies,POINT (-82.7137635716568 35.657344720918), 
+coa_food_locations.36,BLUE RIDGE CHURCH OF CHRIST,8 OLD LAKEY GAP ROAD,28711,Manna Agencies,POINT (-82.3341694126437 35.6031830731285),NCJHunter@gmail.
+coa_food_locations.37,BIG IVY COMMUNITY CLUB,111 POVERTY BRANCH RD.,28709,Manna Agencies,POINT (-82.45021050924662 35.78674262238889),bicc@barnardsvil
+coa_food_locations.38,FAMILY OF FAITH FELLOWSHIP,213 LONG SHOALS RD.,28776,Manna Agencies,POINT (-82.53962535814624 35.48241948396),familyoffaith@be
+coa_food_locations.39,GOD'S FILLING STATION-MUSTARD S,503 JOHNSTON SCHOOL RD.,28806,Manna Agencies,POINT (-82.62566688088698 35.59159456977235),brockwelld@yahoo
+coa_food_locations.40,THE WELCOME TABLE - SWANNANOA,216 WHITSON AVE.,28778,Manna Agencies,POINT (-82.39703220722036 35.59997426005684),ploch@charter.ne
+coa_food_locations.41,FIRST BAPTIST CHURCH - HOMELESS,5 OAK ST.,28801,Manna Agencies,POINT (-82.54779161681084 35.59901343380768),emorgan@fbca.net
+coa_food_locations.42,LEAST OF THESE MINISTRIES,396 GENEVA PLACE,28778,Manna Agencies,POINT (-82.29670412499264 35.64638255641497),burton.salthouse
+coa_food_locations.43,ZEPHYR HILLS FREEWILL BAPTIST C,283 SHELBURNE RD,28806,Manna Agencies,POINT (-82.60187650474215 35.57084090844921),zephyrhillsfreew
+coa_food_locations.44,GOSPEL TABERNACLE,202 BRICKYARD ROAD,28806,Manna Agencies,POINT (-82.59762891228864 35.60373772682719),glorredmon@aol.c
+coa_food_locations.45,CHANNEL OF GRACE (FIRST CONGREG,20 OAK ST,28805,Manna Agencies,POINT (-82.54802601225306 35.597799321722746),w.burgess@yahoo.
+coa_food_locations.46,OAKLEY BAPTIST CHURCH,70 FAIRVIEW AVE.,28803,Manna Agencies,POINT (-82.51460494933416 35.56625455307427),lddotson@bellsou
+coa_food_locations.47,TABERNACLE MISSIONARY BAPTIST C,56 WALTON ST.,28801,Manna Agencies,POINT (-82.56077585595544 35.57543012059765),pflowers1963@gma
+coa_food_locations.48,CALVARY BAPTIST CHURCH - BRIAN',531 HAYWOOD ROAD,28806,Manna Agencies,POINT (-82.58517617825404 35.57902133987062),atat2d4life@aol.
+coa_food_locations.49,BEVERLY HILLS BAPTIST - FAMILY,777 TUNNEL ROAD,28805,Manna Agencies,POINT (-82.5074426146959 35.58622457712666),bhbcoffice@bhbca
+coa_food_locations.50,HOMINY VALLEY WELCOME TABLE (AS,725 ASBURY ROAD,28715,Manna Agencies,POINT (-82.67356216911271 35.55654628579571),faumc1@bellsouth
+coa_food_locations.51,CATHOLIC SOCIAL SERVICES - FOOD,50 ORANGE STREET,28801,Manna Agencies,POINT (-82.5512485044403 35.6018502555904),mmsheppard@charl
+coa_food_locations.52,RIVERSIDE BAPTIST CHURCH,871 RIVERSIDE DR,28804,Manna Agencies,POINT (-82.57487215631497 35.619228846381034), 
+coa_food_locations.53,THE DOWNTOWN WELCOME TABLE,"297 HAYWOOD ST, CENTRAL UMC",28801,Manna Agencies,POINT (-82.5631492146022 35.59324186620599),rev.briancombs@g
+coa_food_locations.54,BILTMORE CHURCH OF GOD - JUST A,1390 SWEETEN CREEK ROAD,28803,Manna Agencies,POINT (-82.51801903154947 35.53446244185735),kathysfilosophy@
+coa_food_locations.55,EAST ASHEVILLE WELCOME TABLE,954 TUNNEL ROAD,28805,Manna Agencies,POINT (-82.50047885751415 35.58984032199347),geraldd@groceumc
+coa_food_locations.57,Black Mountain Community PRODUC,101 Carver Avenue,28711,Manna Agencies,POINT (-82.34021442059841 35.61485714679395), 
+coa_food_locations.18,LOVING FOOD RESOURCES,123 KENILWORTH ROAD,28813,Manna Agencies,POINT (-82.53872348586006 35.57661374508096),LovingFoodResour
+coa_food_locations.20,ABCCM - NORTH BUNCOMBE SAMARITA,403 WEAVERVILLE HWY.,28787,Manna Agencies,POINT (-82.58302271714466 35.66469722495415),mickey.black@abc
+coa_food_locations.29,VICTORY FELLOWSHIP WORSHIP CENT,450 AIKEN DRIVE,28787,Manna Agencies,POINT (-82.58205599209367 35.68327174732846),sdburleson@juno.
+coa_food_locations.33,"FOOD FOR FAIRVIEW, INC.","1357 CHARLOTTE HWY, COMMUNITY CTR",28730,Manna Agencies,POINT (-82.41011717916545 35.523510607577194),wansong@bellsout
+coa_food_locations.35,GEORGETOWN MISSIONARY BAPTIST,DIX CREEK ROAD #1,28748,Manna Agencies,POINT (-82.678648645753 35.60638047739077),swbigmamaw18@gma
+coa_food_locations.56,LEICESTER COMMUNITY WELCOME TAB,17 MAYNARD ROAD,28748,Manna Agencies,POINT (-82.6511057682594 35.5150093403556),efmears@bellsout
+coa_food_locations.92,Ingles,1141 Tunnel Road,,Grocery,POINT (-82.4881719449137 35.585737047755295), 
+coa_food_locations.93,Ingles,29 Tunnel Road,,Grocery,POINT (-82.53547327607379 35.59539506686193), 
+coa_food_locations.94,Ingles,863 Brevard Road,,Grocery,POINT (-82.60736304048031 35.530555124770714), 
+coa_food_locations.95,Ingles,669 Haywood Road,,Grocery,POINT (-82.59087121865612 35.57876067593008), 
+coa_food_locations.96,Ingles,153 Smokey Park Highway,,Grocery,POINT (-82.62852132005571 35.56436912627368), 
+coa_food_locations.97,Ingles,575 New Leicester Highway,,Grocery,POINT (-82.63162231777156 35.61454633795549), 
+coa_food_locations.98,Ingles,1865 Hendersonville Road,,Grocery,POINT (-82.5239482620304 35.50023276031576), 
+coa_food_locations.99,Ingles,780 Hendersonville Road,,Grocery,POINT (-82.53156916848621 35.54474687830776), 
+coa_food_locations.100,Wal-Mart,60 Airport Road,,Grocery,POINT (-82.52297628626093 35.45634492117863),Arden
+coa_food_locations.101,Food Lion,1350 Charlotte Highway,,Grocery,POINT (-82.41109521662037 35.52462000580196),Fairview
+coa_food_locations.102,Wal-Mart,146 Monticello Road,,Grocery,POINT (-82.58141783374725 35.70601479199479),Weavervil
+coa_food_locations.103,Bi-Lo,801 Fairview Road,,Grocery,POINT (-82.50303412378483 35.570908145963784), 
+coa_food_locations.104,Food Lion,1856 Hendersonville Road,,Grocery,POINT (-82.52126499133873 35.5011489320013), 
+coa_food_locations.105,Harris Teeter,1378 Hendersonville Road,,Grocery,POINT (-82.52908462969035 35.52211757060244), 
+coa_food_locations.106,Wal-Mart,437 Swannanoa River Road,,Grocery,POINT (-82.51342973065535 35.57904041971036), 
+coa_food_locations.107,Aldi,470 Swannanoa River Rd,,Grocery,POINT (-82.5110144281829 35.57801493540687),
+coa_food_locations.108,Aldi,1344 Patton Ave,,Grocery,POINT (-82.6045026956399 35.583071972147685),
+coa_food_locations.109,Amazing Savings,45 S French Broad Ave,,Grocery,POINT (-82.55921284747673 35.59211384130743),
+coa_food_locations.110,Amazing Savings,121 Sweeten Creek Road,,Grocery,POINT (-82.52775324024901 35.56278023153945),
+coa_food_locations.111,Amazing Savings,"3018 US-70, Suite 1",,Grocery,POINT (-82.35063481910025 35.608673768987835),
+coa_food_locations.112,Go Grocery Outlet,121 New Leicester Hwy,,Grocery,POINT (-82.60590127337822 35.59282962234467),
+coa_food_locations.113,Go Grocery Outlet,1804 Hendersonville Rd,,Grocery,POINT (-82.52257741833449 35.50523954299289),
+coa_food_locations.114,Go Grocery Outlet,1380 Tunnel Rd,,Grocery,POINT (-82.46763603662998 35.58423453695724),
+coa_food_locations.115,Sav-Mor,891 Patton Ave,,Grocery,POINT (-82.58796426509338 35.58809769166377),
+coa_food_locations.116,Sav-Mor,842 Merrimon Ave,,Grocery,POINT (-82.55379770339333 35.62837075243173),
