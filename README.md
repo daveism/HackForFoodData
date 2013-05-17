@@ -3,16 +3,14 @@ HackForFoodData
 
 data to support hack for food
 
+On the City of Asheville Open Data Catalong
+http://opendatacatalog.ashevillenc.gov/opendata/tag/40/?sort=name&dir=asc
 
-Data can be found at these resources: 
+Here on GitHub 
+https://github.com/CodeForAsheville/HackForFoodData
 
-      http://opendatacatalog.ashevillenc.gov/">Asheville Opendata Catalog
-          
-          -food locations
-          -bus stops
-          -bus routes
-          
-      http://ashevilletreemap.org/
+
+
       
       
       
